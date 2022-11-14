@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lkVkXbcnL9utp5SMfTr/mOVJDQLXLeet3ru/YapQfXw=",
+  "Source": "csharp.microservice.restful",
+  "BasePath": "_content/csharp.microservice.restful",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
